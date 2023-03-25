@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 div{
-    display: inline;
+    display: inline-block;
 }
 .a{
     color:#2a7ae2 ;
